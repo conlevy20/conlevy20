@@ -1,6 +1,3 @@
-## Hey there!
-Reliable, passionate full Stack Developer.
-
 ## Technologies 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -23,6 +20,5 @@ Reliable, passionate full Stack Developer.
 
 ## Github Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=conlevy20&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&bg_color=000)
-![GitHub graph](https://activity-graph.herokuapp.com/graph?username=conlevy20&theme=react-dark&line=aaaaaa&&bg_color=000000&color=ffffff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=conlevy20&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&bg_color=000)
 
