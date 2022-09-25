@@ -20,8 +20,3 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&logoColor=339933)
 ![Yarn](https://img.shields.io/badge/-Yarn-000000?style=flat&logo=yarn&logoColor=F05032)
-
-## Github Stats:
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=conlevy20&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&bg_color=000)
-
